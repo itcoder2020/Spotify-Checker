@@ -1,8 +1,8 @@
 # Spotify-Checker
  
 npm install request<br>
-npm install cheerio
-npm install cli-color
-npm install line-by-line
-npm install line-reader
-npm install system-sleep
+npm install cheerio<br>
+npm install cli-color<br>
+npm install line-by-line<br>
+npm install line-reader<br>
+npm install system-sleep<br>
