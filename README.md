@@ -1,6 +1,6 @@
 # Spotify-Checker
  
-npm install request
+npm install request<br>
 npm install cheerio
 npm install cli-color
 npm install line-by-line
